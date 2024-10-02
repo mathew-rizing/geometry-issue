@@ -1,0 +1,9 @@
+[
+  "src/**/*.hdbview",
+  "src/**/*.hdbindex",
+  "src/**/*.hdbconstraint",
+  "src/**/*_drafts.hdbtable",
+  "src/**/*.hdbcalculationview",
+  "src/**/*.hdbcalculationview",
+  "src/**/*.hdbrole"
+]
